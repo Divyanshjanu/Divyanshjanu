@@ -1,0 +1,89 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Divyansh Janu - AI Engineer in the making">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0A0E1A"/>
+      <stop offset="0.5" stop-color="#12152E"/>
+      <stop offset="1" stop-color="#0A0E1A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1200" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6366F1"/>
+      <stop offset="0.5" stop-color="#8B5CF6"/>
+      <stop offset="1" stop-color="#3B82F6"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="600" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#C4B5FD"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1E2749" stroke-width="0.5" opacity="0.4"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+
+  <!-- Decorative nodes / neural network motif on right -->
+  <g opacity="0.55">
+    <!-- edges -->
+    <g stroke="url(#accent)" stroke-width="1.2" opacity="0.5">
+      <line x1="980" y1="70" x2="1080" y2="120"/>
+      <line x1="980" y1="70" x2="1080" y2="210"/>
+      <line x1="980" y1="150" x2="1080" y2="120"/>
+      <line x1="980" y1="150" x2="1080" y2="210"/>
+      <line x1="980" y1="230" x2="1080" y2="120"/>
+      <line x1="980" y1="230" x2="1080" y2="210"/>
+      <line x1="900" y1="110" x2="980" y2="70"/>
+      <line x1="900" y1="110" x2="980" y2="150"/>
+      <line x1="900" y1="190" x2="980" y2="150"/>
+      <line x1="900" y1="190" x2="980" y2="230"/>
+    </g>
+    <!-- nodes -->
+    <g fill="#8B5CF6">
+      <circle cx="900" cy="110" r="6"><animate attributeName="opacity" values="0.4;1;0.4" dur="3s" repeatCount="indefinite"/></circle>
+      <circle cx="900" cy="190" r="6"><animate attributeName="opacity" values="1;0.4;1" dur="3s" repeatCount="indefinite"/></circle>
+      <circle cx="980" cy="70" r="6" fill="#6366F1"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.4s" repeatCount="indefinite"/></circle>
+      <circle cx="980" cy="150" r="6" fill="#6366F1"><animate attributeName="opacity" values="1;0.4;1" dur="2.4s" repeatCount="indefinite"/></circle>
+      <circle cx="980" cy="230" r="6" fill="#6366F1"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.8s" repeatCount="indefinite"/></circle>
+      <circle cx="1080" cy="120" r="6" fill="#3B82F6"><animate attributeName="opacity" values="1;0.4;1" dur="2.6s" repeatCount="indefinite"/></circle>
+      <circle cx="1080" cy="210" r="6" fill="#3B82F6"><animate attributeName="opacity" values="0.4;1;0.4" dur="2.6s" repeatCount="indefinite"/></circle>
+    </g>
+  </g>
+
+  <!-- Terminal prompt line -->
+  <text x="80" y="90" font-family="'JetBrains Mono','Courier New',monospace" font-size="18" fill="#6366F1">
+    <tspan fill="#8B5CF6">divyansh@ai</tspan><tspan fill="#4B5563">:</tspan><tspan fill="#3B82F6">~</tspan><tspan fill="#4B5563">$</tspan><tspan fill="#94A3B8"> whoami</tspan>
+  </text>
+
+  <!-- Name -->
+  <text x="78" y="165" font-family="'Segoe UI',Arial,sans-serif" font-size="60" font-weight="800" fill="url(#nameGrad)" filter="url(#glow)">Divyansh Janu</text>
+
+  <!-- Tagline with typing cursor -->
+  <text x="80" y="215" font-family="'JetBrains Mono','Courier New',monospace" font-size="22" fill="#CBD5E1">
+    Building intelligent systems, one project at a time
+    <tspan fill="#8B5CF6" font-weight="700">_</tspan>
+    <animate attributeName="opacity" values="1;1" dur="1s"/>
+  </text>
+
+  <!-- Role badges -->
+  <g font-family="'JetBrains Mono','Courier New',monospace" font-size="14" font-weight="600">
+    <rect x="80" y="245" width="130" height="30" rx="15" fill="#6366F1" opacity="0.15" stroke="#6366F1" stroke-width="1"/>
+    <text x="145" y="265" fill="#818CF8" text-anchor="middle">AI Intern</text>
+
+    <rect x="222" y="245" width="150" height="30" rx="15" fill="#8B5CF6" opacity="0.15" stroke="#8B5CF6" stroke-width="1"/>
+    <text x="297" y="265" fill="#A78BFA" text-anchor="middle">ML Enthusiast</text>
+
+    <rect x="384" y="245" width="185" height="30" rx="15" fill="#3B82F6" opacity="0.15" stroke="#3B82F6" stroke-width="1"/>
+    <text x="476" y="265" fill="#60A5FA" text-anchor="middle">Learning in Public</text>
+  </g>
+
+  <!-- accent line -->
+  <rect x="80" y="120" width="4" height="30" rx="2" fill="url(#accent)"/>
+</svg>
