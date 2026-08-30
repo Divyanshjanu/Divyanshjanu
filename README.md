@@ -15,7 +15,7 @@
 
 <br/>
 
-## `~/ whoami`
+## `~/ who am i`
 
 ```python
 class Divyansh:
