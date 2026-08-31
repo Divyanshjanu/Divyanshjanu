@@ -18,19 +18,19 @@
 ## `[ SYSTEM PROMPT ]`
 
 ```yaml
-role: "Generative AI & Deep Learning Engineer"
+role: "AI / Deep Learning Engineer"
 education: "Honours Bachelor of Artificial Intelligence @ Durham College"
-upcoming_deployment: "AI Field Placement Intern @ CareerNiche"
+recent_deployment: "Completed AI Field Placement @ CareerNiche"
 base_location: "Ontario, Canada"
 
 core_directives:
-  - "Design and optimize neural network architectures from the math up."
-  - "Ship scalable, reproducible machine learning models."
-  - "Compile comprehensive deep learning study guides and share technical documentation openly."
+  - "Build, document, and ship clean, reproducible AI models."
+  - "Translate complex mathematical intuitions into functioning neural networks."
+  - "Share technical documentation and algorithmic breakdowns openly."
 
 current_focus: 
-  - "Implementing CNNs and Sequence Models."
-  - "Analyzing matrix dimensions, dropout regularization, and optimization algorithms."
+  - "Advanced Deep Learning: Architecting CNNs and Sequence Models."
+  - "Generative AI Engineering: Exploring LLM integrations and optimization."
 ```
 
 <br/>
@@ -62,11 +62,11 @@ current_focus:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/Divyanshjanu/ML-Notes">ML-Notes & Mathematical Derivations</a></h3>
-      <p>My structured machine learning journey and open-source documentation. Includes detailed PDF study guides built from raw transcripts, covering deep learning code implementations, layer unit configurations, and core math intuition.</p>
+      <h3><a href="https://github.com/Divyanshjanu/ML-Notes">ML-Notes & Algorithms</a></h3>
+      <p>My structured machine learning journey documented in the open. Contains detailed theoretical explanations and math intuition for core ML algorithms (Regression, KNN, SVM, Decision Trees, Random Forests, Naive Bayes, Clustering, and PCA).</p>
       <p>
-        <img src="https://img.shields.io/badge/Theory-6366F1?style=flat-square&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Deep_Learning-8B5CF6?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Machine_Learning-6366F1?style=flat-square&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Algorithms-8B5CF6?style=flat-square&logoColor=white"/>
       </p>
     </td>
     <td width="50%" valign="top">
