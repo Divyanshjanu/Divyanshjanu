@@ -93,8 +93,8 @@ class Divyansh:
 ## `~/ github_stats`
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Divyanshjanu&show_icons=true&hide_border=true&title_color=8B5CF6&icon_color=6366F1&text_color=CBD5E1&bg_color=0A0E1A&v=1" alt="stats"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyanshjanu&layout=compact&hide_border=true&title_color=8B5CF6&text_color=CBD5E1&bg_color=0A0E1A&v=1" alt="top langs"/>
+  <img width="49%" src="https://my-stats-api-eta.vercel.app/api?username=Divyanshjanu&show_icons=true&hide_border=true&title_color=8B5CF6&icon_color=6366F1&text_color=CBD5E1&bg_color=0A0E1A&v=1" alt="stats"/>
+  <img width="49%" src="https://my-stats-api-eta.vercel.app/api/top-langs/?username=Divyanshjanu&layout=compact&hide_border=true&title_color=8B5CF6&text_color=CBD5E1&bg_color=0A0E1A&v=1" alt="top langs"/>
 </p>
 
 <p align="center">
