@@ -90,11 +90,11 @@ current_focus:
 
 <p align="center">
   <img width="49%" src="https://my-stats-api-eta.vercel.app/api?username=Divyanshjanu&show_icons=true&hide_border=true&title_color=8B5CF6&icon_color=6366F1&text_color=CBD5E1&bg_color=0A0E1A&v=1" alt="stats"/>
-  <img width="49%" src="https://my-stats-api-eta.vercel.app/api/top-langs/?username=Divyanshjanu&layout=compact&hide_border=true&title_color=8B5CF6&text_color=CBD5E1&bg_color=0A0E1A&v=1" alt="top langs"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Divyanshjanu&hide_border=true&stroke=8B5CF6&ring=6366F1&fire=3B82F6&currStreakNum=FFFFFF&currStreakLabel=A78BFA&sideNums=CBD5E1&sideLabels=CBD5E1&dates=64748B&background=0A0E1A" alt="streak"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Divyanshjanu&hide_border=true&stroke=8B5CF6&ring=6366F1&fire=3B82F6&currStreakLabel=A78BFA&sideNums=CBD5E1&sideLabels=CBD5E1&dates=64748B&background=0A0E1A" alt="streak"/>
+  <img width="49%" src="https://my-stats-api-eta.vercel.app/api/top-langs/?username=Divyanshjanu&layout=compact&hide_border=true&title_color=8B5CF6&text_color=CBD5E1&bg_color=0A0E1A&v=1" alt="top langs"/>
 </p>
 
 <br/>
