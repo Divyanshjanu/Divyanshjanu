@@ -13,7 +13,6 @@
   <a href="https://divyansh-janu.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-181B2E?style=for-the-badge&logo=globe&logoColor=818CF8" alt="Portfolio"/>
   </a>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDivyanshjanu&count_bg=%238B5CF6&title_bg=%23181B2E&title=Profile+Views&edge_flat=true" alt="Views"/>
 </p>
 
 <br/>
